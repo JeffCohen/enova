@@ -1,4 +1,4 @@
-For this assignment, you will be editing the directions.rb, geolocate.rb and weather.rb files located in this repository. Each Ruby script should provide a user for input and return a specific output. Your a Ruby scripts should do the following:
+For this assignment, you will be editing the directions.rb, geolocate.rb and weather.rb files located in this repository. Each Ruby script should expect user input (using `gets`) and produce specific output (using `puts`). 
 
 
 ### geolocate.rb
