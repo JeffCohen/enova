@@ -9,6 +9,11 @@
 * [Recommended Style Guide](https://github.com/styleguide/ruby)
 * [Code Quizzes](http://www.codequizzes.com/)
 
+### APIs
+* [Google Geocoding JSON API](https://developers.google.com/maps/documentation/geocoding)
+* [Google Directions JSON API](https://developers.google.com/maps/documentation/directions)
+* [OpenWeatherMap JSON API](http://openweathermap.org/API)
+
 ### HTML and CSS
 * [How to Write Your Code](http://mdo.github.io/code-guide/)
 * [Google](http://www.google.com)
