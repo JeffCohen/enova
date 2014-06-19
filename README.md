@@ -1,8 +1,15 @@
-Everything here is just a guess. We will steer as we go.
 
 Please [empty your cup](http://c2.com/cgi/wiki?EmptyYourCup).
 
+My name is Jeff Cohen.
+
+* [@jeffcohen](https://twitter.com/jeffcohen)
+* [My website](http://jeffcohenonline.com/)
+
+
 ### Schedule
+
+Everything here is just a guess. We will steer as we go.
 
 We'll convene every day from 9:00am - 5:00pm.
 
