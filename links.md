@@ -4,6 +4,11 @@
 * [Sublime Text Documentation](http://docs.sublimetext.info/en/latest/index.html)
 * [Unix for the Beginning Mage](http://unixmages.com/ufbm.pdf)
 
+### Ruby
+* [Official documentation](http://www.ruby-doc.org/)
+* [Recommended Style Guide](https://github.com/styleguide/ruby)
+* [Code Quizzes](http://www.codequizzes.com/)
+
 ### HTML and CSS
 * [How to Write Your Code](http://mdo.github.io/code-guide/)
 * [Google](http://www.google.com)
@@ -19,9 +24,4 @@
 ### Rails
 * [Offical Rails Guides](http://guides.rubyonrails.org)
 * [Offical Rails Blog](http://weblog.rubyonrails.org)
-
-### Ruby
-* [Official documentation](http://www.ruby-doc.org/)
-* [Recommended Style Guide](https://github.com/styleguide/ruby)
-* [Code Quizzes](http://www.codequizzes.com/)
 
