@@ -21,6 +21,9 @@ We'll convene every day from 9:00am - 5:00pm.
 * Consuming JSON APIs
 * Idiomatic Ruby
 * Unit Tests
+* HTML 101
+* CSS 101
+* CSS Frameworks
 
 **Tuesday**
 
@@ -45,6 +48,10 @@ We'll convene every day from 9:00am - 5:00pm.
 
 **Thursday**
 
+* User Accounts
+* Authentication
+* Authorization
+* OAuth
 
 **Friday**
 
