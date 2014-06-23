@@ -1,10 +1,7 @@
 
 Please [empty your cup](http://c2.com/cgi/wiki?EmptyYourCup).
 
-My name is Jeff Cohen.
-
-* [@jeffcohen](https://twitter.com/jeffcohen)
-* [My website](http://jeffcohenonline.com/)
+My name is Jeff Cohen [@jeffcohen](https://twitter.com/jeffcohen)
 
 
 ### Schedule
@@ -23,10 +20,12 @@ We'll convene every day from 9:00am - 5:00pm.
 * Method calls vs. Message reception
 * Introspection
 * Arrays and Hashes
+* Enumerables
 * Instance vs. Class methods
 * HTTP access
 * Consuming JSON APIs
 * Idiomatic Ruby
+* Open Classes
 * Unit Tests
 * HTML 101
 * CSS 101
