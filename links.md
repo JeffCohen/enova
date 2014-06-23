@@ -16,6 +16,7 @@
 * [Google Static Maps](https://developers.google.com/maps/documentation/staticmaps/)
 
 ### HTML and CSS
+* [FontAwesome](http://fontawesome.io/)
 * [How to Write Your Code](http://mdo.github.io/code-guide/)
 * [Google](http://www.google.com)
 * [Bootstrap](http://www.getbootstrap.com)
