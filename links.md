@@ -13,6 +13,7 @@
 * [Google Geocoding JSON API](https://developers.google.com/maps/documentation/geocoding)
 * [Google Directions JSON API](https://developers.google.com/maps/documentation/directions)
 * [OpenWeatherMap JSON API](http://openweathermap.org/API)
+* [Google Static Maps](https://developers.google.com/maps/documentation/staticmaps/)
 
 ### HTML and CSS
 * [How to Write Your Code](http://mdo.github.io/code-guide/)

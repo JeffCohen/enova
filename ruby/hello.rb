@@ -1,7 +1,3 @@
-
-
-
-
 def display(landmark_name, price)
   if price == "Free"
     puts "#{landmark_name} is #{price}"
@@ -22,9 +18,6 @@ landmarks = [ { "name" => "Sears Tower", "price" => "25" },
 landmarks.each { |item| display item["name"], item["price"] }
 
 prices = h.collect { |item| item["price"] }
-
-
-
 
 # expensive_item = h.detect do |item|
 #   item["price"].to_i > 20
