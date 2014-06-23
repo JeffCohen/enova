@@ -1,3 +1,5 @@
+The FlyToday app is now [it's own repository](https://github.com/JeffCohen/flytoday)
+
 
 Please [empty your cup](http://c2.com/cgi/wiki?EmptyYourCup).
 
