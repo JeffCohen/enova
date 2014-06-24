@@ -28,26 +28,25 @@ We'll convene every day from 9:00am - 5:00pm.
 * Consuming JSON APIs
 * Idiomatic Ruby
 * Open Classes
-* Unit Tests
 * HTML 101
 * CSS 101
 * CSS Frameworks
+* Creating new Rails applications
+* RCAV
 
 **Tuesday**
 
-*Welcome Aboard*
-
-* Creating new applications
-* RCAV
 * HTTP Internals
 * Database-backed Models
 * Rails Console
 * Model CRUD Life Cycle
+* Web Forms
+* MVC Architecture
+* Unit Tests
 
 **Wednesday**
 
 * The Golden 7
-* Web Forms
 * Model Data Validation Rules
 * Model Associations
 * Model Callbacks
