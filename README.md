@@ -58,16 +58,16 @@ We'll convene every day from 9:00am - 5:00pm.
 * Authorization
 * Gems
 * OAuth
+* Ajax
 
 **Thursday**
 
-* Ajax
 * Hack Day
 
 **Friday**
 
 * Red-Green-Refactor
-* Testing web applications
+* RSpec
 
 
 
