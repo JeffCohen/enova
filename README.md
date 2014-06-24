@@ -44,29 +44,30 @@ We'll convene every day from 9:00am - 5:00pm.
 * Model CRUD Life Cycle
 * Web Forms
 * MVC Architecture
-* Unit Tests
-
-**Wednesday**
-
 * The Golden 7
 * Model Data Validation Rules
 * Model Associations
 * Model Callbacks
 * Model-Backed Forms
+
+**Wednesday**
+
 * Strong Parameters
-
-**Thursday**
-
 * User Accounts
 * Authentication
 * Authorization
+* Gems
 * OAuth
+
+**Thursday**
+
+* Ajax
+* Hack Day
 
 **Friday**
 
+* Red-Green-Refactor
 * Testing web applications
-* Introduction to RSpec
-* Ajax
 
 
 
