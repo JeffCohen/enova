@@ -66,6 +66,7 @@ We'll convene every day from 9:00am - 5:00pm.
 
 **Friday**
 
+* Custom Rake Tasks
 * Red-Green-Refactor
 * RSpec
 
