@@ -8,8 +8,8 @@
 * [Official documentation](http://www.ruby-doc.org/)
 * [Recommended Style Guide](https://github.com/styleguide/ruby)
 * [Code Quizzes](http://www.codequizzes.com/)
-* [Formatting Dates and Times](http://strfti.me)
-* 
+* [Formatting Dates and Times with strfti.me](http://strfti.me)
+
 ### APIs
 * [Google Geocoding JSON API](https://developers.google.com/maps/documentation/geocoding)
 * [Google Directions JSON API](https://developers.google.com/maps/documentation/directions)
