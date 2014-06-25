@@ -9,6 +9,7 @@
 * [Recommended Style Guide](https://github.com/styleguide/ruby)
 * [Code Quizzes](http://www.codequizzes.com/)
 * [Formatting Dates and Times with strfti.me](http://strfti.me)
+* [Whenever](https://github.com/javan/whenever) and [RailsCast](http://railscasts.com/episodes/164-cron-in-ruby).  The RailsCast is a bit old, so beware that some of the Rails code might be obsolete.  But it should be 90% helpful.
 
 ### APIs
 * [Google Geocoding JSON API](https://developers.google.com/maps/documentation/geocoding)
