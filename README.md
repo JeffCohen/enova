@@ -1,4 +1,4 @@
-[The final challenge](http://imdbclone.herokuapp.com/)
+[The final challenge](http://imdbclone.herokuapp.com/)!
 
 * How would you begin to recreate the site?
 * Can you sketch a domain model?
@@ -7,7 +7,7 @@
 * Are there any user authorization considerations?
 * Are there any opportunities to improve the user experience with Javascript/Ajax techniques?
 
-
+---
 
 The FlyToday app is now [it's own repository](https://github.com/JeffCohen/flytoday)
 
