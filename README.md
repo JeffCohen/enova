@@ -1,8 +1,11 @@
 [The final challenge](http://imdbclone.herokuapp.com/)
 
-* Can you sketch a domain model?
 * How would you begin to recreate the site?
-* What would you start with first?
+* Can you sketch a domain model?
+* Can you identify the `has_many` and `belongs_to` associations?
+* What business rules need to be enforced with model validations?
+* Are there any user authorization considerations?
+* Are there any opportunities to improve the user experience with Javascript/Ajax techniques?
 
 
 
