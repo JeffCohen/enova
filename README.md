@@ -1,3 +1,11 @@
+[The final challenge](http://imdbclone.herokuapp.com/)
+
+* Can you sketch a domain model?
+* How would you begin to recreate the site?
+* What would you start with first?
+
+
+
 The FlyToday app is now [it's own repository](https://github.com/JeffCohen/flytoday)
 
 
