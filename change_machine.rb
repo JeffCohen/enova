@@ -1,28 +1,37 @@
-require 'test/unit'
+# require 'test/unit'
+require 'minitest/autorun'
 
 class ChangeMachine
+
+  # %
+  # /
 
   # Returns an array indicating the quantity of
   # each denomination required.
   # [pennies, nickels, dimes, quarters]
   def issue_coins(amount)
-    # TO DO: implement this method
+    return [1, 0, 0, 0]
   end
 end
 
-class ChangeMachineTest < Test::Unit::TestCase
+class ChangeMachineTest < MiniTest::Unit::TestCase
 
-  # def test_one_penny
-  #   machine = ChangeMachine.new
-  #   coins = machine.issue_coins(1)
-  #   assert_equal [1, 0, 0, 0], coins
-  # end
 
-  # def test_pennies
-  #   machine = ChangeMachine.new
-  #   coins = machine.issue_coins(4)
-  #   assert_equal [4, 0, 0, 0], coins
-  # end
+  def test_one_penny
+
+    # x = lambda { |i| puts "hello #{i}" }
+    # x.call(3)
+
+    machine = ChangeMachine.new
+    coins = machine.issue_coins(1)
+    assert_equal [1, 0, 0, 0], coins
+  end
+
+  def test_pennies
+    machine = ChangeMachine.new
+    coins = machine.issue_coins(4)
+    assert_equal [4, 0, 0, 0], coins
+  end
 
   # def test_nickels
   #   machine = ChangeMachine.new
