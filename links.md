@@ -5,6 +5,7 @@
 * [Unix for the Beginning Mage](http://unixmages.com/ufbm.pdf)
 
 ### Ruby
+* [Exception Handling](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 * [Official documentation](http://www.ruby-doc.org/)
 * [Recommended Style Guide](https://github.com/styleguide/ruby)
 * [Code Quizzes](http://www.codequizzes.com/)
